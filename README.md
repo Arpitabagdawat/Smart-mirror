@@ -62,43 +62,6 @@ The application continuously updates information such as time, weather condition
 
 ---
 
-# 🏗️ System Architecture
-
-```
-User
-   │
-   ▼
-Smart Mirror Interface
-   │
-   ├────────► Current Time
-   │
-   ├────────► Current Date
-   │
-   ├────────► Weather API
-   │
-   └────────► Personalized Greeting
-```
-
----
-
-# 📂 Project Structure
-
-```
-Smart-Mirror/
-│
-├── main.py
-├── weather.py
-├── config.py
-├── assets/
-│     ├── icons/
-│     ├── background/
-│
-├── requirements.txt
-├── README.md
-└── screenshots/
-```
-
----
 
 # ⚙️ How It Works
 
