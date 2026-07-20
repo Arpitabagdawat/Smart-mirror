@@ -177,9 +177,6 @@ Contributions are welcome.
 ## 📸 Demo & Preview
 
 🎥 *Demo video available on my LinkedIn profile:*  
-👉 [www.linkedin.com/in/arpita-b-66a996292](## 📸 Demo & Preview
-
-🎥 *Demo video available on my LinkedIn profile:*  
 👉 [https://www.linkedin.com/in/arpitabagdawat-dataanalyst/](https://www.linkedin.com/feed/update/urn:li:activity:7394035988420874240/)
 
 ---)
